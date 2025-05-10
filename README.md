@@ -2,7 +2,7 @@
 
   The current iteration of PidPal desktop will scrape and clean parcel data from each respective county website, clean the data from its original text format, and upload the data to the SQLite3 database. As it stands, each scrape of a parcel will overwrite the last, in its current version PidPal Desktop will not work as a year-over-year dashboard but as a one off security pricing tool.
 
-![Project Screenshot](./Resources/readme_screenshot.png)
+![Project Screenshot](./pidpal/Resources/readme_screenshot.png)
 
 ## Badges
 
