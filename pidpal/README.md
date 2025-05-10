@@ -8,7 +8,6 @@
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/user/repo/test.yml?branch=main)](https://github.com/user/repo/actions)
 [![Coverage Status](https://img.shields.io/coveralls/user/repo)](https://coveralls.io/github/user/repo)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Table of Contents
 - [Starting](#Starting)
